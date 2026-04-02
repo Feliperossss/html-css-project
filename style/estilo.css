@@ -61,5 +61,28 @@ body{
 
 .hero nav a:hover{
      background-color: rgba(0, 0, 0, 0.6);
-    
+}
+
+main{
+    margin: auto;
+    width: 80%;
+    min-width: 400px;
+    max-width: 860px;
+}
+
+section{
+    padding: 20px;
+}
+
+article{
+    background-color: white;
+    margin-bottom: 50px;
+    padding: 20px;
+}
+
+article h2{
+    border-bottom: 2px  solid #ccc;
+    background-color: #eee;
+    padding: 12px;
+    margin-top: 0;
 }
