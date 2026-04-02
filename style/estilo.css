@@ -86,3 +86,9 @@ article h2{
     padding: 12px;
     margin-top: 0;
 }
+
+article a{
+    padding: 10px;
+    background-color: rgb(201, 195, 175);
+    border-radius: 5px;
+}
