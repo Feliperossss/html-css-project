@@ -88,7 +88,19 @@ article h2{
 }
 
 article a{
+    display: block;
     padding: 10px;
     background-color: rgb(201, 195, 175);
     border-radius: 5px;
+    margin-left: auto;
+    width: fit-content;
+}
+
+.mainFooter{
+    color: white;
+    background-color: #6b6c68;
+    text-align: center;
+    padding: 50px;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 2px;
 }
